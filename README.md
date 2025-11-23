@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=Hi!++I+Am+Ravinder+Saluja;Building+and+fine-tuning+LLMs;Deploying+AI+pipelines+with+FastAPI;Automating+AI+workflows+with+CI/CD" alt="Typing Animation">
 </p>
 
----
+![Profile Visits](https://komarev.com/ghpvc/?username=ravindersaluja&color=0e75b6&style=flat-square)
+
 
 ## 🚀 About Me
 - Building and fine-tuning **large language models (LLMs)** and implementing **RAG, prompt engineering, and multi-agent AI workflows** using Autogen, CrewAI, and LangGraph.
@@ -45,9 +46,6 @@
 
 
 
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindersaluja/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RavinderSaluja)
-
